@@ -1,0 +1,11 @@
+1) Arduino MEGA 2560 R3
+2) W5100 Moduł sieciowy LAN ethernet
+3) Przetwornica XY-3606 Step-Down
+4) Moduł odtwarzacza MP3 WAV TTL TX RX YX5300 microSD
+5) Moduł wzmacniacza audio LM386 mono
+6) Gniazdo DC 5.5/2.1
+7) Wyświetlacz LCD 1602 16x2 niebieski HD44780
+8) Zasilacz 9V 4A 36W z kablem zasilającym i rozgałęzieniem
+9) Karta microSD 8GB
+10) Głośniczek miniaturowy 0,5W 16ohm
+11) Dioda led zielona
